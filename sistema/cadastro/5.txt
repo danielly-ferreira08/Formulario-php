@@ -1,0 +1,5 @@
+ID: 5
+Nome: Daniel
+cargo: médico
+salario: 50000
+quantDepend: 2 
